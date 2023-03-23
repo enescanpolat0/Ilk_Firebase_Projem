@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+    <TextView
+        android:id="@+id/recycler_row_kullaniciemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#3F51B5"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:layout_margin="5dp"
+
+        >
+
+    </TextView>
+
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:id="@+id/recycler_row_imageview"
+        >
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/recycler_row_kullaniciyorum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#3F51B5"
+        android:layout_margin="5dp"
+
+
+        >
+
+    </TextView>
+
+
+</LinearLayout>

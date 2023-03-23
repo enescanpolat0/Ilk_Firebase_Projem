@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043050589232",
+    "project_id": "fir-ogrenme-72941",
+    "storage_bucket": "fir-ogrenme-72941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043050589232:android:fb53793baae85aa94791f5",
+        "android_client_info": {
+          "package_name": "com.enescanpolat.firebaseogrenme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043050589232-3pjpnr1qusb3fj27itaai7gu4f6irctb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsvbOw07uwuMaJ9qjiUbn8mi6XXbvil_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043050589232-3pjpnr1qusb3fj27itaai7gu4f6irctb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
